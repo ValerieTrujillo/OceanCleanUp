@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -9,7 +10,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #67cce6;
+  /* padding-bottom: calc(10rem - 56px); */
+  /* background-image: url("https://images.unsplash.com/photo-1521022125878-aa8a4ea78a5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"); */
+  background-attachment: fixed;
+  /* background-position: center; */
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
